@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Images Slider
+
+This is a mini react application for image slide that can be integrated into our applications and websites .
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
